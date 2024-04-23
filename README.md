@@ -16,4 +16,4 @@ Plot the data by date, visualizing the weekly and monthly trends using line plot
 Save the generated images in a specific path or format for future reference or reporting purposes.
 Split the dataset into training and testing sets, ensuring that the temporal order is maintained to reflect real-world scenarios.
 Load the images from the specific path and preprocess them if necessary (e.g., resizing, normalization).
-Define a CNN model architecture suitable for time series analysis, incorporating convolutional layers, pooling layers, and possibly recurrent layers like LSTM.
+Define a CNN model architecture suitable for time series analysis, incorporating convolutional layers, and pooling layers,...
